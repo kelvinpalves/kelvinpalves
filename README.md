@@ -3,7 +3,7 @@
 
 🔭 I’m currently working as a software engineer on an international project with a lot of users and growing mostly
 
-🌱 I’m currently learning AWS, Kubernetes,  scalability, microservices, hexagonal architecture, DDD, clean code, and design patterns in general
+🌱 I’m currently learning scalability, microservices, hexagonal architecture, DDD, clean code, and design patterns in general
 
 📝 I’m looking to collaborate on an open-source web project or bash scripts
 
