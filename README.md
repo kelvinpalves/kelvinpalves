@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelvinpalves)](https://git.io/streak-stats) -->
+
+
 <div>
   <a href="https://github.com/kelvinpalves">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=kelvinpalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
